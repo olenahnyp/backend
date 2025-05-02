@@ -5,6 +5,5 @@ pandas==1.5.3
 numpy==1.23.5
 Pillow==9.4.0
 opencv-python==4.7.0.72
-https://github.com/FacePerceiver/facer
-torch==1.13.1  # Only include if you're using it in your code
+torch==1.13.1
 
